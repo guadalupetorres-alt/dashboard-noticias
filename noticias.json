@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T02:40:37.350138Z",
+  "generated_at": "2026-11-19T02:44:49.044442Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 381,
+  "new_articles": 88,
   "errors": [],
   "articles": [
     {
@@ -230,6 +230,15 @@
       "category": "Mercados",
       "published_at": "2026-11-19T00:55:00Z",
       "collected_at": "2026-11-19T02:40:37.350138Z"
+    },
+    {
+      "id": "d471573030a8d6823fd82f21",
+      "title": "Empleo en EU - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BM2l2eVdhTWU0TDJHOXF2NmlsMi1jTlM0U3hUbGNhWjl5c29kUXJOQlJoelA0YkREQnZzanRxamZkVU4tTlRaVG1IdHhhcm9XMEE5eHdjOTkyU3FKeWxmMDdQdjFrWVNvRkV3a041LVU3SlVQUU42NTZDTmg?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T00:54:23Z",
+      "collected_at": "2026-11-19T02:44:49.044442Z"
     },
     {
       "id": "3e70af8f388b537b80eead3d",
@@ -482,6 +491,15 @@
       "category": "Mercados",
       "published_at": "2026-11-18T22:40:39Z",
       "collected_at": "2026-11-19T02:40:37.350138Z"
+    },
+    {
+      "id": "b6f9d735eb9b1cc53c7fcc3b",
+      "title": "US inflation surprise and Treasury yield surge may deepen liquidity challenges for NEAR and crypto assets - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbElRcDZRcTZkLVZ2Q05fa2t1SHA2bFVucWpKaFV0V3llMVhwUldzNEdiSEVBelVEb3dWOEpvMS1tTXZ2TjZvaENLQ1lpdmFnU1JVbkNId0xKM3BLdUhjT3lzOWFYeEtVdnV1bFNiclRWSDVHZG1aUE4zYTZzX003d05YWmxrTVI4aUc0OTdZdw?oc=5",
+      "source": "Traders Union",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T22:36:27Z",
+      "collected_at": "2026-11-19T02:44:49.044442Z"
     },
     {
       "id": "99c6810814e878c2323300e6",
@@ -1726,6 +1744,15 @@
       "collected_at": "2026-11-19T02:40:37.350138Z"
     },
     {
+      "id": "382215eed65855251a29b388",
+      "title": "Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSU5xZ3hxUXIyT2tZR3ZHRi1NaG1TZDd1Q2EtRmwtM0hTT2Z6c1RObk9ldkhIUVlkZGJ6b015d243c2s4TnpXYzVydmlYYnl1WDkwcGViTmw4VDlhTl9yeWVOMjFoVUl1QVZ6NTRLXzgxOHNZMGJLdDRYMWQ5eXNyclg4dHRJOWxMV095SlE1cFRRT3RHX1BZMmdOelA0VWxHMUZVdnI4UzQ4Zlk5RHZkRWI1Wk96SXNjVmF3?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-18T05:53:00Z",
+      "collected_at": "2026-11-19T02:44:49.044442Z"
+    },
+    {
       "id": "454fc3279b2411bff0b1db35",
       "title": "Morning Bid: Jensen Huang's last hurrah, and a nervy future for Nvidia - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkhVeHlSOHlwY3dfOWVqSnVzNmhhcmtGWHk4SkdYQVlXSmxHdmtUVnBDMEpKbG5YQVpSVGJnbERVQUJPSElNbUh3Y3VTcURWQ2MyVlVKenZCRmtDVk9vcVlTSmJGbmdROVF6LUNORzd0UUI0TWo4M2JOSXFfRmlkZV9nYw?oc=5",
@@ -1969,6 +1996,15 @@
       "collected_at": "2026-11-19T02:40:37.350138Z"
     },
     {
+      "id": "f373371aee30412a59801b6e",
+      "title": "¿Por qué bajó el dólar hoy 17 de noviembre de 2026 en México? - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkNWaHdJSlBxaTZ0TFNDVzBDUkZKRjA0SnVyZjBmWVd0bXpCLU5xSFBYWDhDdWJBQzBvXzZsenNZaWRPNGsyNk85V2p3T2l5QjdXUmRKOU5sZWFJNDhrN19ldUZvTFV0Z0ZEVWVZdDdxWUpqZzIxdUFQU2VKaS1UVXktUE5UNkFxc2tJek1ZUmlvTDRBcmRmTlB6cVp4TU9ORTFFSXNNMDV4RjRX?oc=5",
+      "source": "El Heraldo de México",
+      "category": "México",
+      "published_at": "2026-11-17T23:35:51Z",
+      "collected_at": "2026-11-19T02:44:49.044442Z"
+    },
+    {
       "id": "c12382f26cd28eeac4294f73",
       "title": "Digitalizar no se decreta - El Economista",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWZxUFlyaFdMV29lRmZTSzlDVm85TUpOcUFlYlF2NDlVVzRqVXFibWpFX3FnNTJIbXliLUk4ejNJdm56eWNYQ3BNa3hGdVZlTm5zaGd0Mk5GVU5GWG9yWEd2ZXl5d3g4QjZvMmtlT3BKbW1LUldfbVcyRDFrMy1takdCcnpTdkXSAYwBQVVfeXFMT0Jfb1IwaElQT2hBUzNLV1UyU1ctV0ExbVJScnVGOHl0bG4wQi1PZEpZSjlBR1R5cFVkaElKSUFleC1aNHdvb1lSbThuMjJYQ0RRV1MxNER3MXg1Um1aUzJ2ZGFPTmlGT3dTXy1zQ09qaEd6WTgzX2hNbF84b1ZwT0VoNDl3M1VzMVppVjE?oc=5",
@@ -2039,6 +2075,15 @@
       "category": "Política",
       "published_at": "2026-11-17T21:32:48Z",
       "collected_at": "2026-11-19T02:40:37.350138Z"
+    },
+    {
+      "id": "70ff7051c9a2a068406e97ea",
+      "title": "Stocks down ahead of Nvidia's post-scandal earnings report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZU9pZ1RvdnkwM21rMi1tZ2J1XzZwNmI4Tk13aWMtYjFHdXhPampwaks0Qm5URHd4VW91V21JblFRYTNBSGhwZmxxcjFmMF8tOFl0Nmc4bHF3QmhhYUFQd0ZxdXBnemg1RVdSQTRWdWVxRWQ1dXVZdEpuYXN6YnZ6UzJoWC1Mc1h4a0VjRFVuZ013NnBUanJzVllB?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-17T21:12:03Z",
+      "collected_at": "2026-11-19T02:44:49.044442Z"
     },
     {
       "id": "820708f5d06f45da4fbf0628",
@@ -2230,6 +2275,15 @@
       "collected_at": "2026-11-19T02:40:37.350138Z"
     },
     {
+      "id": "88606bcb07c7463e976c5769",
+      "title": "Bank Stocks Slip After Outages Disrupt US Customers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkpjcURaRHRuV0szZ3RSSzFkSk5tcGg3cUNUc0R1cVJkQlc3N3pBdEhVSUV6aEgtZ3hLU2FxMUZNY3VtRHhZNTJDdmlYNFpqT3RUWjVWMlJFM1NYWkxMeC1YUEI2bVN3MzEyeVUwdnpVSEgxb2RxMC1BYUI1V0UzRllhX0JNUjdTbzhYRnp1ekl5WmhNc2hMbzVNSXp2QQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-17T17:56:12Z",
+      "collected_at": "2026-11-19T02:44:49.044442Z"
+    },
+    {
       "id": "7f748da76ad20b9305079192",
       "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWhaSXdja0FJbTdibG5fb3BEQWpTMzNmbTVUNkhtN2haanZFaWxtd3EzNVJUa2tkcW12NUhHMVRiUkhydS02b1JEeWphTEdRRHVUVjZZdzJnLVo5RE84d3B1NmJIYTZfWmpwMXVHSUlzSm9ra05ILTg3dUE1bHo3dUNCWU5Fbm1PSHJhek93N0JxMURmdUc5c3JwbUwyTG93TGJNbFJhX0R4UzctRVpiaTcxek16MnFRX09ocjhQWDJqNE0?oc=5",
@@ -2255,6 +2309,15 @@
       "category": "Mercados",
       "published_at": "2026-11-17T17:45:56Z",
       "collected_at": "2026-11-19T02:40:37.350138Z"
+    },
+    {
+      "id": "ce1f3aa0debc61036eda8d3e",
+      "title": "Bill Ackman's Latest Filing Shows Two Big Bets Beyond Streaming Stocks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYVRYUERSMlR6MWtZRThfSFduNXNldDBvQnpQdlpkXzB6Vm04YmRjcHdacTRIQko0VURuc2dfR0YtVDhsdGkwYVRmdV9LXy01TjV5UlAxUTczcVhKa2prc0RrV2Z4czlGQTRWSmVhWnIwclo1X0c2bXdvQWRZQWt3QmNyR0Y4c1VqYmhCVGxvVlZwc1l2b1dtR3VKYmkwUQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-17T17:43:11Z",
+      "collected_at": "2026-11-19T02:44:49.044442Z"
     },
     {
       "id": "4024687eca2e833b6b39e9ac",
@@ -2641,69 +2704,6 @@
       "source": "El Comercio Perú",
       "category": "México",
       "published_at": "2026-11-17T10:00:00Z",
-      "collected_at": "2026-11-19T02:40:37.350138Z"
-    },
-    {
-      "id": "b8cc1d5c48100697446724cc",
-      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-      "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-      "source": "CNBC / Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T08:52:45Z",
-      "collected_at": "2026-11-19T02:40:37.350138Z"
-    },
-    {
-      "id": "04e18326e15dfe448ac736aa",
-      "title": "Treasury yields moderate as investors parse retail sales data - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xcWR1OGh2RVFmcDRsR1JtUDJUVFhqWFVjQ3R2V1ZjSFpqWmNtRXQweHFac0UxYllNRzJ2akQ0R2Q3dTFpTkhGeWFMS3d4MFNIX1pMWW5oUWxyQzh2bV8zcG91MlVCNm5kNlVXN3dmMG1pVWYycHFR0gF8QVVfeXFMTlpoUmZfei1Qbjl3OU9tR3A4MmlvbXNIR3FXa1JaRW5CMm5qQmgwcVBRMlFGa1BFc243bG5vR1hJVjBhYVJvMDVmNmstX2M3ME93cjZUbXc5dE5IWHJ5bndwRlJOLUNBTDBEY08tTUVMdG12c0VpemV3VUQtSw?oc=5",
-      "source": "CNBC",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-17T08:23:51Z",
-      "collected_at": "2026-11-19T02:40:37.350138Z"
-    },
-    {
-      "id": "73d639075775c94b6074dd4a",
-      "title": "Déficit fiscal de México superaría 4% del PIB por sexto año consecutivo en 2027 - EL CEO",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2xlQzh1RHAxZjdtY05oMEhqcGVHcmNOLUg4QjJ6eXF0Z2N6S1hWWGxHSDZScGZueXlIZlRnN3FBVkJwbGFGeldIeDdGbGU5Tk9OMFNPZEh5di1QOGplMzdySUJtTnNiaGJjMW50MzV1eUk3akNGc2ZTWTl0YnRxa0ZXWW5GR01TSlpMN0VIZHZRY256NFRmVUVESQ?oc=5",
-      "source": "EL CEO",
-      "category": "Política",
-      "published_at": "2026-11-17T08:03:29Z",
-      "collected_at": "2026-11-19T02:40:37.350138Z"
-    },
-    {
-      "id": "114fb5e494d93e86342ad7d8",
-      "title": "Inflación en México podría acercarse al 4% en diciembre por aumento del consumo - El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObzg5YzYtWFZxN1Z5S2JLYjM0VW1YY3Z6dC16Ulk2dWNKZ1NNc3EweUxUTGF5SWRZZmdXcWg4Z211V0JKTEVwdTUwdVlWVnJ6MjNFYlhuNFdWRlEyMV9MUWdoZzhjQlotd2s0VVFyc1hFZlZBMFhkLVNRdmpEbEpWbWw3aGpXRzlOa2h4dDh4alZYYUQ1X0J4VWVOTkJMRG1oclR6UXB3MkxiUzhJelZSQmdlU1dnYlhqVDkybVFKWDdRbDJGaUE?oc=5",
-      "source": "El Sol de México",
-      "category": "México",
-      "published_at": "2026-11-17T07:35:47Z",
-      "collected_at": "2026-11-19T02:40:37.350138Z"
-    },
-    {
-      "id": "c2f50ce27a75bdc021538f79",
-      "title": "CSP: misión en China - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX2F4RGdPZ1d1ZUd2YVhZeV9LbTBaQUZ2N2w4b2stbFBQVWNLUkQ2czJ2VDh0R2xZZmF5X0RFYzlYQTBsUDUyRlRma0x6MThJNEhWZlZmX0VaRVlhMGRKNVdkcVROTHdQUnNpNkZiWFI1R2RleDlscDNnQ21DLURhajlEa9IBiAFBVV95cUxQcU5qbmJpVGVhdWlFYnV5bkRKbzdwTUtYME0ycFUya2w1M2xzOVJ0MHI5dU9TY0RLQXBPOUx2YTA2QVVTaUFRNWQ3TXZQNkV0N3VlZ3RpNm5xWURVUmpIaW9GWi0xTU1FdERXYzk5bk5Nd1BlUGlSWFN1c0ZHZ2VLWGxpdjdqTVNN?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-17T07:29:33Z",
-      "collected_at": "2026-11-19T02:40:37.350138Z"
-    },
-    {
-      "id": "480ed4d6d950bd728d76889d",
-      "title": "Inflation Is Sending US Bond Yields Higher Again. Here’s Why We’re Not Worried - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFpadnR4a3lSYlpoZ3lSTnowS0phdkpBd2p1MS1tUGV5UnpmWlhwdjNVUVdjdFhtV2RTR09ldW5NazF2bUx6bkRoOEF3VWU3bHBiY2JvNXhqMkVNRW1wbTlfOVU2NXZPcmRQd0E5ZmtlTldUZllwUmdwODlwQjdia05yZ1pjMWc1WEtKNDQzaFFlOC1MazQwQVVjRTRJU01jcnNaSVFTUlJlX2tZMGtPbno4aTJrd21UajktLQ?oc=5",
-      "source": "Morningstar",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-17T07:07:37Z",
-      "collected_at": "2026-11-19T02:40:37.350138Z"
-    },
-    {
-      "id": "bbc1d434c78a4350c5c38cd0",
-      "title": "EXCLUSIVE: India may limit leveraged stock bets to curb volatility, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW0tQWdjMmJOOUJOV3RYNzByeUVmLTZNYTRKTGszNHBqTVR2OHlrZnBLQXN6UlhFeFhOMGRBblFpSTJjcVJVckMybVJDYnhWU01VanpQOWNkVXFhZmlrYXM0empDNE5aXzBSQUVnSnBTSDlYZ3JJNURScmdzSFM5ei1VTTdiZVVhOTA4RjdOMHF0VkQ4bHhVdFZRek91d0NXVjlxVkh1UmMxWDZMMmpfelJ0aHhubWRu?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-17T06:55:00Z",
       "collected_at": "2026-11-19T02:40:37.350138Z"
     }
   ]
